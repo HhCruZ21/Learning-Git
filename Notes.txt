@@ -48,9 +48,8 @@ Why ignore files
 
         To undo use git restore commands.
 
+        Renaming using git mv current_name new_name
 
 
 
 
-
-        
