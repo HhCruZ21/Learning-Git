@@ -17,3 +17,20 @@ Understanding Git environments
 git add . / git add Filename        : is used to move files/changes from working area to staging area.
 
 git commit -m "Commit Message"      : is used to move files/changes from staging area into the repository.
+
+
+
+
+
+Why ignore files
+
+    -> Could contain sensitive data.
+    -> Personal Notes 
+    -> System files
+
+
+
+    Steps in ignoring a files
+
+        -> Create the file to be ignored.
+        -> Create a .gitignore file
