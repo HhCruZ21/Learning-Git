@@ -1,0 +1,19 @@
+The first thing is to setup the config data
+
+    -> git config --global user.email "email@example.com"
+    -> git config --global user.name "name"
+
+
+
+Understanding Git environments
+
+    There are three environments in Git
+
+        -> Working area 
+        -> Staging area
+        -> Commit 
+
+
+git add . / git add Filename        : is used to move files/changes from working area to staging area.
+
+git commit -m "Commit Message"      : is used to move files/changes from staging area into the repository.
