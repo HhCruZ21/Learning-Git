@@ -34,3 +34,23 @@ Why ignore files
 
         -> Create the file to be ignored.
         -> Create a .gitignore file
+        -> Add the name of the file or type of files that you want to ignore inside the .gitignore file.
+        -> Save it and push it.
+
+
+
+
+
+
+    Deleting and Renaming files
+
+        Delete it normally or use git bash : git rm filename.
+
+        To undo use git restore commands.
+
+
+
+
+
+
+        
