@@ -1,0 +1,67 @@
+What is Git?
+
+    -> Git is a distributed version control system. It let's you track changes made to a file
+       and allows us to revert back to any particular change that you wish to. 
+
+    -> It is a distributed architecture, that provides many advantages over other version control
+       systems like the SVN.
+
+    -> One of the major advantage is that it does not rely on a central server to store all the versions
+       of project files. Instead every developer clones a copy of the repository
+
+
+
+
+
+
+What is a distributed version control system?
+
+    -> These are the systems that don't rely on a central server to store a project file and all it's versions.
+
+    -> In such a VCS, every programmer can get a local copy of the repo using cloning, using pull and push operations
+       the local repository and the server repositories can be kept in sync.
+
+
+
+
+
+
+
+What are the advantages of VCS?
+
+    -> Provides flexibility. Multiple programmers can work on the same thing without affecting each other's work.
+
+    -> All the versions are easily available to all programmers with access to the repository.
+
+    -> Changes can be tracked easily
+
+    -> Provides backup
+
+
+
+
+
+
+
+what is the difference between Git and SVN?
+
+    -> Git is a decentralized version control tool, SVN is a centralized version control tool
+
+    -> SVN does not allow a local cloning facility.
+
+    -> In git commits are possible even if we are offline, but in SVN only online commit is possible.
+       So push and pull operations are quicker in Git
+
+
+
+
+
+
+
+
+What is the difference between Git and GitHub?
+
+    -> Git is a version control system. 
+
+    -> GitHub is an american company that provides hosting for software development version control using Git. It offers all 
+       of the distributed version control and source code management (SCM) functionalities of Git as well as some extra features.
