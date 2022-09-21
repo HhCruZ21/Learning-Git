@@ -42,14 +42,49 @@ Why ignore files
 
 
 
-    Deleting and Renaming files
+Deleting and Renaming files
 
-        Delete it normally or use git bash : git rm filename.
+    Delete it normally or use git bash : git rm filename.
 
-        To undo use git restore commands.
+    To undo use git restore commands.
 
-        Renaming using git mv current_name new_name
-
-
+    Renaming using git mv current_name new_name
 
 
+
+
+Differences
+
+    
+git diff is the command. We use it to compare between files..
+
+
+
+
+
+
+
+Changing history
+
+
+
+
+
+Branches
+
+    -> New branch : git branch branch_name / git checkout -b branch_name (old standard)
+
+    -> Change between branches : git checkout branch_name (for already created branches) / git checkout -b branch_name (old standard)
+
+    -> Deleting a branch : git branch -d branch_name
+
+    -> 
+
+
+
+
+Merging
+
+    -> git branch branch_name will merge our current branch with the branch with name branch_name
+
+    -> 
