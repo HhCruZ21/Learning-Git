@@ -88,3 +88,30 @@ Merging
     -> git branch branch_name will merge our current branch with the branch with name branch_name
 
     -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Git Flow & Trunk based development
+
+
+Steps in Gitflow
+
+    ->  Feature/Fix branch is created
+    -> Make the required changes in this branch
+    -> Merge to the parent branch
+    -> Delete the feature/fix branch
+
+
+
+
+
