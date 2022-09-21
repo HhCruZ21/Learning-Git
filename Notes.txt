@@ -95,7 +95,14 @@ Merging
 
 
 
+Stashing and cleaning
 
+    -> Stashing is a way for putting away code temporarily so that we can work on something else.
+
+    -> git stash command will store the changes away in a storage.
+    -> git stash list is the command to view all changes which have been stored already
+    -> git stash apply
+    -> git stash pop
 
 
 
