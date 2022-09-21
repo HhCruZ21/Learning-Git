@@ -108,6 +108,39 @@ Stashing and cleaning
 
 
 
+
+What is GitHub? Why GitHub?
+
+
+
+
+
+
+
+
+
+
+There are four types of files when it comes to git
+
+    -> Untracked files
+    -> Modified files
+    -> Unmodified files
+    -> Staged files
+
+
+    When we give the git add . command all unmodified files are removed from being moved to the staged area. 
+    All the other files like untracked and modified are moved to the staging area.
+
+
+
+
+git log command helps us to view the most recent commits with the message and commit code.
+
+
+
+
+
+
 Git Flow & Trunk based development
 
 
