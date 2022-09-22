@@ -252,3 +252,93 @@ What is the use of git instaweb?
 
 
 
+What is git is-tree?
+
+   -> Represents a tree object including the mode and the name of each item and the SHA-1 value of the tree.
+
+
+
+
+
+
+
+
+
+
+
+
+What is git stash?
+
+   -> Stashing takes your working directory that is, your modified tracked files and staged changes and saves 
+      it on a unfinished changes that you can reapply at any time.
+
+
+
+
+
+
+
+
+
+
+
+What is the function of git stash apply?
+
+   -> If you want to continue working where you left your work then 'git stash apply' command is used to bring back
+      the saved changes onto your current working directory.
+
+
+
+
+
+
+
+
+
+
+
+What work is restored when the deleted branch is recovered?
+
+   -> The files which were stashed and saved in the stash index list will be recovered back. Any untracked files will be lost.
+
+
+
+
+
+
+
+
+
+
+
+
+What is the difference between git status and git diff?
+
+   -> 'git diff' depicts the changes between commits, commit and working tree etc. whereas 'git status' shows you the difference
+      between the working directory and the index, it is helpful in understanding git more comprehensively.
+
+
+
+
+
+
+
+
+
+
+
+Difference between git clone and git remote?
+
+   -> git remote add, creates an entry in your git config that specifies a name for a particular URL
+
+   -> git clone, creates a new repository by copying an existing one located at the URL.
+
+
+
+
+
+
+
+
+
+
