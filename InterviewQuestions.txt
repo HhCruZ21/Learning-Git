@@ -65,3 +65,190 @@ What is the difference between Git and GitHub?
 
     -> GitHub is an american company that provides hosting for software development version control using Git. It offers all 
        of the distributed version control and source code management (SCM) functionalities of Git as well as some extra features.
+
+
+
+
+
+
+
+
+
+What language was used in creating Git?
+
+   -> Git uses 'C' language. Git is fast, and 'C' language makes this possible by reducing the overhead of run times associated 
+      with high-level languages
+
+
+
+
+
+
+
+
+
+Mention the various Git repository hosting functions
+
+   -> GitHub
+   -> GitLab
+   -> Bitbucket
+   -> SourceForge
+   -> GitEnterprise
+
+
+
+
+
+
+
+
+What is a repository in Git?
+
+   -> Repository is where git stores all the files, be it local or remote repository.
+
+
+
+
+
+
+
+
+
+
+
+
+What is a bare repository in Git
+
+   -> Contains info about the version control and it does not contain the special .git subdirectory.
+      It contains all it's contains directly in the main director
+
+
+
+
+
+
+
+
+
+
+
+What is commit message?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do you fix a broken commit?
+
+   -> git commit amend
+
+
+
+
+
+
+
+
+
+
+
+
+How do you resolve a conflict in Git
+
+   -> 
+
+
+
+
+
+
+
+
+
+
+
+
+How do you revert a commit that has already been pushed and made public?
+
+   -> There can be two approaches to tackle this problem.
+
+   -> Remove the mistakes and commit push it again
+
+   -> Using git revert name_of_commit
+
+
+
+
+
+
+
+
+What is SubGit?
+
+   -> SubGit is a tool for SVN to Git migration. It can create a writable git mirror of a local or remote subversion
+      repository and use both subversion and Git as long as you like.
+
+
+
+
+
+
+
+
+
+
+
+What is the difference between git pull and fetch?
+
+   -> 
+
+
+
+
+
+
+
+
+
+
+
+
+What is a staging area or index?
+
+   -> Before completing the commits, any change canbe formatted and reviewed in an intermediate area known as the staging area.
+
+
+
+
+
+
+
+
+
+
+
+
+What is the use of git instaweb?
+
+   -> 'git instaweb' is used to automatically direct a web browser and run a webserver with an interface into your local repo.
+
+
+
+
+
+
+
+-----------------------------------------Finished beginner level questions-----------------------------------------------------------
+
+
+
+
